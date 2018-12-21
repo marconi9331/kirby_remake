@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: 34f2ffedae7ba1741ad3aeab4911eb04
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy GBC - Kirby Tilt n Tumble - Enemies_0
+    21300002: Game Boy GBC - Kirby Tilt n Tumble - Enemies_1
+    21300004: Game Boy GBC - Kirby Tilt n Tumble - Enemies_2
+    21300006: Game Boy GBC - Kirby Tilt n Tumble - Enemies_3
+    21300008: Game Boy GBC - Kirby Tilt n Tumble - Enemies_4
+    21300010: Game Boy GBC - Kirby Tilt n Tumble - Enemies_5
+    21300012: Game Boy GBC - Kirby Tilt n Tumble - Enemies_6
+    21300014: Game Boy GBC - Kirby Tilt n Tumble - Enemies_7
+    21300016: Game Boy GBC - Kirby Tilt n Tumble - Enemies_8
+    21300018: Game Boy GBC - Kirby Tilt n Tumble - Enemies_9
+    21300020: Game Boy GBC - Kirby Tilt n Tumble - Enemies_10
+    21300022: Game Boy GBC - Kirby Tilt n Tumble - Enemies_11
+    21300024: Game Boy GBC - Kirby Tilt n Tumble - Enemies_12
+    21300026: Game Boy GBC - Kirby Tilt n Tumble - Enemies_13
+    21300028: Game Boy GBC - Kirby Tilt n Tumble - Enemies_14
+    21300030: Game Boy GBC - Kirby Tilt n Tumble - Enemies_15
+    21300032: Game Boy GBC - Kirby Tilt n Tumble - Enemies_16
+    21300034: Game Boy GBC - Kirby Tilt n Tumble - Enemies_17
+    21300036: Game Boy GBC - Kirby Tilt n Tumble - Enemies_18
+    21300038: Game Boy GBC - Kirby Tilt n Tumble - Enemies_19
+    21300040: Game Boy GBC - Kirby Tilt n Tumble - Enemies_20
+    21300042: Game Boy GBC - Kirby Tilt n Tumble - Enemies_21
+    21300044: Game Boy GBC - Kirby Tilt n Tumble - Enemies_22
+    21300046: Game Boy GBC - Kirby Tilt n Tumble - Enemies_23
+    21300048: Game Boy GBC - Kirby Tilt n Tumble - Enemies_24
+    21300050: Game Boy GBC - Kirby Tilt n Tumble - Enemies_25
+    21300052: Game Boy GBC - Kirby Tilt n Tumble - Enemies_26
+    21300054: Game Boy GBC - Kirby Tilt n Tumble - Enemies_27
+    21300056: Game Boy GBC - Kirby Tilt n Tumble - Enemies_28
+    21300058: Game Boy GBC - Kirby Tilt n Tumble - Enemies_29
+    21300060: Game Boy GBC - Kirby Tilt n Tumble - Enemies_30
+    21300062: Game Boy GBC - Kirby Tilt n Tumble - Enemies_31
+    21300064: Game Boy GBC - Kirby Tilt n Tumble - Enemies_32
+    21300066: Game Boy GBC - Kirby Tilt n Tumble - Enemies_33
+    21300068: Game Boy GBC - Kirby Tilt n Tumble - Enemies_34
+    21300070: Game Boy GBC - Kirby Tilt n Tumble - Enemies_35
+    21300072: Game Boy GBC - Kirby Tilt n Tumble - Enemies_36
+    21300074: Game Boy GBC - Kirby Tilt n Tumble - Enemies_37
+    21300076: Game Boy GBC - Kirby Tilt n Tumble - Enemies_38
+    21300078: Game Boy GBC - Kirby Tilt n Tumble - Enemies_39
+    21300080: Game Boy GBC - Kirby Tilt n Tumble - Enemies_40
+    21300082: Game Boy GBC - Kirby Tilt n Tumble - Enemies_41
+    21300084: Game Boy GBC - Kirby Tilt n Tumble - Enemies_42
+    21300086: Game Boy GBC - Kirby Tilt n Tumble - Enemies_43
+    21300088: Game Boy GBC - Kirby Tilt n Tumble - Enemies_44
+    21300090: Game Boy GBC - Kirby Tilt n Tumble - Enemies_45
+    21300092: Game Boy GBC - Kirby Tilt n Tumble - Enemies_46
+    21300094: Game Boy GBC - Kirby Tilt n Tumble - Enemies_47
+    21300096: Game Boy GBC - Kirby Tilt n Tumble - Enemies_48
+    21300098: Game Boy GBC - Kirby Tilt n Tumble - Enemies_49
+    21300100: Game Boy GBC - Kirby Tilt n Tumble - Enemies_50
+    21300102: Game Boy GBC - Kirby Tilt n Tumble - Enemies_51
+    21300104: Game Boy GBC - Kirby Tilt n Tumble - Enemies_52
+    21300106: Game Boy GBC - Kirby Tilt n Tumble - Enemies_53
+    21300108: Game Boy GBC - Kirby Tilt n Tumble - Enemies_54
+    21300110: Game Boy GBC - Kirby Tilt n Tumble - Enemies_55
+    21300112: Game Boy GBC - Kirby Tilt n Tumble - Enemies_56
+    21300114: Game Boy GBC - Kirby Tilt n Tumble - Enemies_57
+    21300116: Game Boy GBC - Kirby Tilt n Tumble - Enemies_58
+    21300118: Game Boy GBC - Kirby Tilt n Tumble - Enemies_59
+    21300120: Game Boy GBC - Kirby Tilt n Tumble - Enemies_60
+    21300122: Game Boy GBC - Kirby Tilt n Tumble - Enemies_61
+    21300124: Game Boy GBC - Kirby Tilt n Tumble - Enemies_62
+    21300126: Game Boy GBC - Kirby Tilt n Tumble - Enemies_63
+    21300128: Game Boy GBC - Kirby Tilt n Tumble - Enemies_64
+    21300130: Game Boy GBC - Kirby Tilt n Tumble - Enemies_65
+    21300132: Game Boy GBC - Kirby Tilt n Tumble - Enemies_66
+    21300134: Game Boy GBC - Kirby Tilt n Tumble - Enemies_67
+    21300136: Game Boy GBC - Kirby Tilt n Tumble - Enemies_68
+    21300138: Game Boy GBC - Kirby Tilt n Tumble - Enemies_69
+    21300140: Game Boy GBC - Kirby Tilt n Tumble - Enemies_70
+    21300142: Game Boy GBC - Kirby Tilt n Tumble - Enemies_71
+    21300144: Game Boy GBC - Kirby Tilt n Tumble - Enemies_72
+    21300146: Game Boy GBC - Kirby Tilt n Tumble - Enemies_73
+    21300148: Game Boy GBC - Kirby Tilt n Tumble - Enemies_74
+    21300150: Game Boy GBC - Kirby Tilt n Tumble - Enemies_75
+    21300152: Game Boy GBC - Kirby Tilt n Tumble - Enemies_76
+    21300154: Game Boy GBC - Kirby Tilt n Tumble - Enemies_77
+    21300156: Game Boy GBC - Kirby Tilt n Tumble - Enemies_78
+    21300158: Game Boy GBC - Kirby Tilt n Tumble - Enemies_79
+    21300160: Game Boy GBC - Kirby Tilt n Tumble - Enemies_80
+    21300162: Game Boy GBC - Kirby Tilt n Tumble - Enemies_81
+    21300164: Game Boy GBC - Kirby Tilt n Tumble - Enemies_82
+    21300166: Game Boy GBC - Kirby Tilt n Tumble - Enemies_83
+    21300168: Game Boy GBC - Kirby Tilt n Tumble - Enemies_84
+    21300170: Game Boy GBC - Kirby Tilt n Tumble - Enemies_85
+    21300172: Game Boy GBC - Kirby Tilt n Tumble - Enemies_86
+    21300174: Game Boy GBC - Kirby Tilt n Tumble - Enemies_87
+    21300176: Game Boy GBC - Kirby Tilt n Tumble - Enemies_88
+    21300178: Game Boy GBC - Kirby Tilt n Tumble - Enemies_89
+    21300180: Game Boy GBC - Kirby Tilt n Tumble - Enemies_90
+    21300182: Game Boy GBC - Kirby Tilt n Tumble - Enemies_91
+    21300184: Game Boy GBC - Kirby Tilt n Tumble - Enemies_92
+    21300186: Game Boy GBC - Kirby Tilt n Tumble - Enemies_93
+    21300188: Game Boy GBC - Kirby Tilt n Tumble - Enemies_94
+    21300190: Game Boy GBC - Kirby Tilt n Tumble - Enemies_95
+    21300192: Game Boy GBC - Kirby Tilt n Tumble - Enemies_96
+    21300194: Game Boy GBC - Kirby Tilt n Tumble - Enemies_97
+    21300196: Game Boy GBC - Kirby Tilt n Tumble - Enemies_98
+    21300198: Game Boy GBC - Kirby Tilt n Tumble - Enemies_99
+    21300200: Game Boy GBC - Kirby Tilt n Tumble - Enemies_100
+    21300202: Game Boy GBC - Kirby Tilt n Tumble - Enemies_101
+    21300204: Game Boy GBC - Kirby Tilt n Tumble - Enemies_102
+    21300206: Game Boy GBC - Kirby Tilt n Tumble - Enemies_103
+    21300208: Game Boy GBC - Kirby Tilt n Tumble - Enemies_104
+    21300210: Game Boy GBC - Kirby Tilt n Tumble - Enemies_105
+    21300212: Game Boy GBC - Kirby Tilt n Tumble - Enemies_106
+    21300214: Game Boy GBC - Kirby Tilt n Tumble - Enemies_107
+    21300216: Game Boy GBC - Kirby Tilt n Tumble - Enemies_108
+    21300218: Game Boy GBC - Kirby Tilt n Tumble - Enemies_109
+    21300220: Game Boy GBC - Kirby Tilt n Tumble - Enemies_110
+    21300222: Game Boy GBC - Kirby Tilt n Tumble - Enemies_111
+    21300224: Game Boy GBC - Kirby Tilt n Tumble - Enemies_112
+    21300226: Game Boy GBC - Kirby Tilt n Tumble - Enemies_113
+    21300228: Game Boy GBC - Kirby Tilt n Tumble - Enemies_114
+    21300230: Game Boy GBC - Kirby Tilt n Tumble - Enemies_115
+    21300232: Game Boy GBC - Kirby Tilt n Tumble - Enemies_116
+    21300234: Game Boy GBC - Kirby Tilt n Tumble - Enemies_117
+    21300236: Game Boy GBC - Kirby Tilt n Tumble - Enemies_118
+    21300238: Game Boy GBC - Kirby Tilt n Tumble - Enemies_119
+    21300240: Game Boy GBC - Kirby Tilt n Tumble - Enemies_120
+    21300242: Game Boy GBC - Kirby Tilt n Tumble - Enemies_121
+    21300244: Game Boy GBC - Kirby Tilt n Tumble - Enemies_122
+    21300246: Game Boy GBC - Kirby Tilt n Tumble - Enemies_123
+    21300248: Game Boy GBC - Kirby Tilt n Tumble - Enemies_124
+    21300250: Game Boy GBC - Kirby Tilt n Tumble - Enemies_125
+    21300252: Game Boy GBC - Kirby Tilt n Tumble - Enemies_126
+    21300254: Game Boy GBC - Kirby Tilt n Tumble - Enemies_127
+    21300256: Game Boy GBC - Kirby Tilt n Tumble - Enemies_128
+    21300258: Game Boy GBC - Kirby Tilt n Tumble - Enemies_129
+    21300260: Game Boy GBC - Kirby Tilt n Tumble - Enemies_130
+    21300262: Game Boy GBC - Kirby Tilt n Tumble - Enemies_131
+    21300264: Game Boy GBC - Kirby Tilt n Tumble - Enemies_132
+    21300266: Game Boy GBC - Kirby Tilt n Tumble - Enemies_133
+    21300268: Game Boy GBC - Kirby Tilt n Tumble - Enemies_134
+    21300270: Game Boy GBC - Kirby Tilt n Tumble - Enemies_135
+    21300272: Game Boy GBC - Kirby Tilt n Tumble - Enemies_136
+    21300274: Game Boy GBC - Kirby Tilt n Tumble - Enemies_137
+    21300276: Game Boy GBC - Kirby Tilt n Tumble - Enemies_138
+    21300278: Game Boy GBC - Kirby Tilt n Tumble - Enemies_139
+    21300280: Game Boy GBC - Kirby Tilt n Tumble - Enemies_140
+    21300282: Game Boy GBC - Kirby Tilt n Tumble - Enemies_141
+    21300284: Game Boy GBC - Kirby Tilt n Tumble - Enemies_142
+    21300286: Game Boy GBC - Kirby Tilt n Tumble - Enemies_143
+    21300288: Game Boy GBC - Kirby Tilt n Tumble - Enemies_144
+    21300290: Game Boy GBC - Kirby Tilt n Tumble - Enemies_145
+    21300292: Game Boy GBC - Kirby Tilt n Tumble - Enemies_146
+    21300294: Game Boy GBC - Kirby Tilt n Tumble - Enemies_147
+    21300296: Game Boy GBC - Kirby Tilt n Tumble - Enemies_148
+    21300298: Game Boy GBC - Kirby Tilt n Tumble - Enemies_149
+    21300300: Game Boy GBC - Kirby Tilt n Tumble - Enemies_150
+    21300302: Game Boy GBC - Kirby Tilt n Tumble - Enemies_151
+    21300304: Game Boy GBC - Kirby Tilt n Tumble - Enemies_152
+    21300306: Game Boy GBC - Kirby Tilt n Tumble - Enemies_153
+    21300308: Game Boy GBC - Kirby Tilt n Tumble - Enemies_154
+    21300310: Game Boy GBC - Kirby Tilt n Tumble - Enemies_155
+    21300312: Game Boy GBC - Kirby Tilt n Tumble - Enemies_156
+    21300314: Game Boy GBC - Kirby Tilt n Tumble - Enemies_157
+    21300316: Game Boy GBC - Kirby Tilt n Tumble - Enemies_158
+    21300318: Game Boy GBC - Kirby Tilt n Tumble - Enemies_159
+    21300320: Game Boy GBC - Kirby Tilt n Tumble - Enemies_160
+    21300322: Game Boy GBC - Kirby Tilt n Tumble - Enemies_161
+    21300324: Game Boy GBC - Kirby Tilt n Tumble - Enemies_162
+    21300326: Game Boy GBC - Kirby Tilt n Tumble - Enemies_163
+    21300328: Game Boy GBC - Kirby Tilt n Tumble - Enemies_164
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -7}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 6}
+        - {x: 7, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516a2bd9cd2fb240a0cb844850cf63c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49880288758e7c6419a6cb6c85d82931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa43c173623d5419ed46275b6769d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d16d1e31b0ed4480b79258700c9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 531
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812007b53780b1e469dbbb2711bbdc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37275eebef4c14cb85a08232b7a02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 531
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e291d4a555f6344880a423abed18fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 531
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092f918e035ce2b4086f50d933ffee26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7207df67c393564391dfbfeeb217664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18530bb39723de409e8cde64febf5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabe29d4843cb54489a010fc734b1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd17d839b113d4791cdbf259f96992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 531
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043eaffface1d8f4192d5ec20c894143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 531
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa78864cdf31e4ba514616d69ee9c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 507
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a1b19e6319114f8a5f6ab1e54106d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 507
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b59371fdd9af34aad2cfe302e01493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 507
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88c643d3fc794499987f8fb8ed9fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 507
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097f0ed8921b504ba77e5c532be752b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 507
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3391495222d6f47a19e8006ca6f68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 507
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82ea48efd3aa4428dbf806a06e99be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 507
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe48ffbaf33c62444a1e64c6e28b2efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 507
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956dd84cc0560eb42a336ee15df69adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 507
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868cb5b3a23aa7498315ca13b3fb595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 507
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fee1a834046f47b5f60d63a9535e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 507
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b729236fa5df7de4ab3511f966042951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac670a5e2f8a99e4eb38196896ed2bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37667e5ef810d84fbb56ebeb0cc8ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727579a279154a4488c064e99e6e2bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738be7a64b058514e8b0d99f21e909e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d8042e88c403948b956ec3cdd156d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bba5338f292c54c8247fdb547e085a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2acb51ba734e43a060627a46a44b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3623116be007b4089c8a7f0417739a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0de04f0d255fd49a2c2a278d00595a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adaa3af42a92674aa3d815c8b26740b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f52ef838c797479fcc0a05a2623fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9fa2239fb11b4bbc660067cc94429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84140ecfb40ff4996660fb849e89d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88150448023633d4c9e891f8cf0692fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3092ff968ebe29c4ea757e62f0a800a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 449
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227ed2f3adce4c419b37313f202881b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 462
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4873a3be161a24ba69b214854c1a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 456
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284c21a46f547f44b01602ab089c5d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded6b6e9e76ea8b408d8397867bb8cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 413
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca80f6237f56d46a00f13d7ab5e870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 413
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb9dbf37007ca4e841a6abaeee365e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 413
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5214c0545da1b4481d39dcac18f57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 413
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866f51a374112d4f8ef0a6e5e1fe1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 413
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870dbdbd003705439bd941fc9e36a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 413
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ab2e30c170c748b783a4b57cc7e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 388
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c920e1984e1b64a95c832f2ca2fb57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 388
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376da23ef4cbae5409b09dc7db84e244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 390
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1643258f8cbdd14898d3e45f26cf435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab80b53f7d0ed84c81e21a31351cb53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b0b01a2ea56342b417758cf4c150f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a946d666e73c44b78ebb8bfa51b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040a4f964d57e245ac48242e1f6cab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c9fcad9a4b344ebe73c66339d09aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6ea3fa63d20fe439954728c1a7378a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 388
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13914c0d497a749b868e5260862b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 388
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc27205d40c2c4d8d55568acc202c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13e6c1804fcfb4cb09f3017c1d2cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 321
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3e788ae5c09841a4112c34c3d08d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 321
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b020e4036b1c7144b4a79709559200e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 321
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa871119f726c48adb197122ab018a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bf47f013da934383b2a66e52baf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e30fb461b4311744a1fa550b3b586db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d86241a7032f745ba038b35cec7fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968ad618a01828418dccb5d307e1a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e2ef1e6a84f74cb1a602ea3816c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0619311aa5d7af438c6eebdce50bbb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b482805427aaf4f81a6b9e46e90e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b15f9cabb6baa042a0ae95d183279b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55148c0d4875514ca97880b9507c986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb687790e57c84c9773eff2e01ab40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb539bea39140d44bf1c961b17d91b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae724885fe9ca04189c3e997d27183d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d2fc522c997c49bb92fe4c09fef3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27ced655839c242a71adf854e8a6d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d644a83776ce0549bf85f58bb10978e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93f19d55f6e8e49a18edef32905301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6dcb10dfc09d4c8c1cc36b9a09fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228e8741c8c50c74ea1692889156270e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c16ef961f5e24d8cc35e021fffc2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 124
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a658b40eee91ed49a232b99d52fd1bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da576de34193b148adb8af1d9b57e84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8151174a8c544ab306df2aa46cc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539aa7fc2032dd8469ee9af8bec0fe3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9f2b3fe3ee8a41ad0436574e094e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54074de3f1840bc4ca412c8e4fdc7e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 124
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8420ad04049a44ae33bae10952099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1783ee1931bbc74d9d9639076cf4692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798eea8acb89dc3488cdf12a0b6ce366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd664e00140b97448973ce711d347ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96cd040610f00b4c8780adaf46a556c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a4b8c0066aef49b55e68169b4dc52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8bb932cbf6c74cb84e99d90adf2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a694ad86c578846b890b7d180a450a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1263a1cbcf6b144ca90d282c594f6b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a92126e87ed6d4397258f2260d9fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36242927feaca6e46b5c3606d543b77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e967fdcab1384a806320856171bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4f5c6ae1408294f8b1309c3c9eaaf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 86
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc26ab00a0d7ca478714bbc8408f0c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d384806a47cd44bb119a9276626f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff8a5ffa8699249ad88453ee8c77cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf46cc4ad156f049a8ff733e8922d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647fdd22d3aab7548856d64a4fd1ee29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4152514d0fd04c9e6a13dcf75dbbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 201
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ef928f6988e943822f66af262b4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Kirby Tilt n Tumble - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a846f43efaa9324dadffa8f982c570a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 349e98ad3c7469644a105c7b1b4af051
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
